@@ -2,12 +2,12 @@ source 'https://rubygems.org'
 
 # Base gems added by `rails new`
 
-gem 'rails', '4.1.4'
+gem 'rails'
 
 gem 'pg'
-gem 'sass-rails', '~> 4.0.3'
+gem 'sass-rails'
 gem 'uglifier', '>= 1.3.0'
-gem 'coffee-rails', '~> 4.0.0'
+gem 'coffee-rails'
 
 gem 'jquery-rails'
 gem 'turbolinks'
